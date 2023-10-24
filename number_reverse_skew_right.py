@@ -2,7 +2,6 @@ for i in range(1,6):
     print((i)*' '+(6-i)*str(6-i))
 
 '''
-The Output
  55555
   4444
    333

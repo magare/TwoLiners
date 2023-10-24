@@ -3,7 +3,6 @@ for i in range(6):
 
     
 '''
-The Output
     1 
    2 2 
   3 3 3 

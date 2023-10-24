@@ -4,7 +4,6 @@ for i in range(5):
     
     
 '''
-The Output
 55555
  4444
   333

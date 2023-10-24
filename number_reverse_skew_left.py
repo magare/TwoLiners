@@ -3,7 +3,6 @@ for i in range(1,6):
 
     
 '''
-The Output
 55555
 4444
 333
